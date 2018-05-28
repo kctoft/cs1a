@@ -63,7 +63,6 @@ public class MethodsForComparingThreeNumbers {
         System.out.println("average: " + average(num1, num2, num3));
         System.out.println("allTheSame: " + allTheSame(num1, num2, num3));
         System.out.println("allDifferent: "+ allDifferent(num1, num2, num3));
-
     }
 }
 
