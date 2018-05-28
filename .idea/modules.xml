@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/assignments/AddingSalesTax/AddingSalesTax.iml" filepath="$PROJECT_DIR$/assignments/AddingSalesTax/AddingSalesTax.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/AnArrayOfTemps/AnArrayOfTemps.iml" filepath="$PROJECT_DIR$/assignments/AnArrayOfTemps/AnArrayOfTemps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/ArrayListOfRectangleObjects/ArrayListOfRectangleObjects.iml" filepath="$PROJECT_DIR$/assignments/ArrayListOfRectangleObjects/ArrayListOfRectangleObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/ArrayWithRandomValues/ArrayWithRandomValues.iml" filepath="$PROJECT_DIR$/assignments/ArrayWithRandomValues/ArrayWithRandomValues.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/AutoInsurance/AutoInsurance.iml" filepath="$PROJECT_DIR$/assignments/AutoInsurance/AutoInsurance.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/BodyMassIndex/BodyMassIndex.iml" filepath="$PROJECT_DIR$/assignments/BodyMassIndex/BodyMassIndex.iml" />
