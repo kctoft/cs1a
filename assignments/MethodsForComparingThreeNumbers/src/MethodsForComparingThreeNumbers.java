@@ -5,6 +5,7 @@
 * desc: Contains five methods that compare three numbers in different ways
  */
 public class MethodsForComparingThreeNumbers {
+    // smallest() will take three doubles and compares values; returns the SMALLEST value
     public static double smallest(double num1, double num2, double num3) {
         // declare vars & defaults
         double smallestVal = num1;
@@ -20,6 +21,7 @@ public class MethodsForComparingThreeNumbers {
         return smallestVal;
     }
 
+    // largest() will take three doubles and compares values; returns LARGEST value
     public static double largest(double num1, double num2, double num3) {
         // declare vars & defaults
         double largestVal = num1;
@@ -35,10 +37,13 @@ public class MethodsForComparingThreeNumbers {
         return largestVal;
     }
 
+    // average() will take three doubles and returns the AVERAGE or mean value
     public static double average(double num1, double num2, double num3) {
         return (num1 + num2 + num3) / 3;
     }
 
+    // allTheSame() takes three doubles, compares the values to see if values are all the same
+    // true if so, false otherwise
     public static boolean allTheSame(double num1, double num2, double num3) {
         if (num1 == num2 && num2 == num3) {
             return true;
@@ -46,6 +51,8 @@ public class MethodsForComparingThreeNumbers {
         return false;
     }
 
+    // allDifferent() takes three doubles, compares the values to see if the values are all different
+    // true if so, false otherwise
     public static boolean allDifferent(double num1, double num2, double num3) {
         if (num1 != num2 && num2 != num3 && num1 != num3) {
             return true;
@@ -53,6 +60,7 @@ public class MethodsForComparingThreeNumbers {
         return false;
     }
 
+    // Testing methods: smallest(), largest(), average(), allTheSame(), and allDifferent()
     public static void main(String[] args) {
         double num1 = 3.5;
         double num2 = 6.7;

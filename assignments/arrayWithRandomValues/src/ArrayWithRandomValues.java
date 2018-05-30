@@ -36,7 +36,6 @@ public class ArrayWithRandomValues {
 }
 
 /*
-/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=53487:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/kit/IdeaProjects/cs1a/out/production/arrayWithRandomValues ArrayWithRandomValues
 Please enter a number:
 12
 3

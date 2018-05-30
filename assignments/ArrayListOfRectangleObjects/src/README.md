@@ -2,7 +2,7 @@
 
 A program that keeps track of a list of rectangles.
 
-### Steps
+### Step
 
 1. define class `Rectangle` - one object represents objects `length` & `width`
 1. define objects in `Rectangle` and store them in an `ArrayList` 
