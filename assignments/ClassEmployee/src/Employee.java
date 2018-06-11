@@ -10,7 +10,7 @@ public class Employee {
     private String firstName;
     private String lastName;
     private int ssn;
-    private int salary;
+    private float salary;
 
     // default constructor
     public Employee() {
@@ -21,7 +21,7 @@ public class Employee {
     }
 
     // constructor with arguments
-    public Employee(String uFirstName, String uLastName, int uSsn, int uSalary) {
+    public Employee(String uFirstName, String uLastName, int uSsn, float uSalary) {
         firstName = uFirstName;
         lastName = uLastName;
         ssn = uSsn;
@@ -63,12 +63,12 @@ public class Employee {
     }
 
     // sets user's salary
-    public void setSalary(int userSalary) {
+    public void setSalary(float userSalary) {
         salary = userSalary;
     }
 
     // gets user's salary
-    public int getSalary() {
+    public float getSalary() {
         return salary;
     }
 
@@ -82,5 +82,10 @@ public class Employee {
         info += "Salary: $" + salary;
 
         return info;
+    }
+
+    // method to give raise to employee
+    public void giveRaise(float percentRaise) {
+        salary = salary + (salary * (percentRaise/ 100));
     }
 }

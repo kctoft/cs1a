@@ -22,5 +22,8 @@ public class TestEmployee {
 
        System.out.println(theEmployee);
 
+       // give Oliva Greenbottom a raise
+        theEmployee.giveRaise(23);
+        System.out.println(theEmployee);
     }
 }
