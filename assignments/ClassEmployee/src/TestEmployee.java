@@ -34,5 +34,28 @@ public class TestEmployee {
 
 /**
  * Output:
- *
+
+ First name: Jane
+ Last name: Doe
+ Social security number: 123456789
+ Salary: $100000.0
+ Daniel
+ Smith
+ 100201234
+ 90000.0
+ First name: Daniel
+ Last name: Smith
+ Social security number: 100201234
+ Salary: $90000.0
+ First name: Olivia
+ Last name: Greenbottom
+ Social security number: 987654321
+ Salary: $30000.0
+ First name: Olivia
+ Last name: Greenbottom
+ Social security number: 987654321
+ Salary: $36900.0
+
+ Process finished with exit code 0
+
  */
