@@ -12,6 +12,22 @@ public class ClassEmployee {
     private int ssn;
     private int salary;
 
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public int getSsn() {
+        return ssn;
+    }
+
+    public int getSalary() {
+        return salary;
+    }
+
     public static void main(String[] args) {
     }
 }
