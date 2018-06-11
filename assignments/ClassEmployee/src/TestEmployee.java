@@ -12,9 +12,13 @@ public class TestEmployee {
 
         // override defaults
         anEmployee.setFirstName("Daniel");
+        System.out.println(anEmployee.getFirstName());
         anEmployee.setLastName("Smith");
+        System.out.println(anEmployee.getLastName());
         anEmployee.setSsn(100201234);
+        System.out.println(anEmployee.getSsn());
         anEmployee.setSalary(90000);
+        System.out.println(anEmployee.getSalary());
 
        System.out.println(anEmployee);
 
@@ -27,3 +31,8 @@ public class TestEmployee {
         System.out.println(theEmployee);
     }
 }
+
+/**
+ * Output:
+ *
+ */
