@@ -8,14 +8,19 @@
 public class TestEmployee {
     public static void main(String[] args) {
         Employee anEmployee = new Employee(); // initializes fields with the value of class definition
+        System.out.println(anEmployee);
 
-       // anEmployee.print();
-
+        // override defaults
         anEmployee.setFirstName("Daniel");
-        // anEmployee.setLastName("Smith");
-        // anEmployee.setSalary(90000);
-       // anEmployee.getSsn(100201234); FIXME help
+        anEmployee.setLastName("Smith");
+        anEmployee.setSsn(100201234);
+        anEmployee.setSalary(90000);
 
-        System.out.println("The employee's name is ");
+       System.out.println(anEmployee);
+
+       Employee theEmployee = new Employee("Olivia", "Greenbottom", 987654321, 30000);
+
+       System.out.println(theEmployee);
+
     }
 }

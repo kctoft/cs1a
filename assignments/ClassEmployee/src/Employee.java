@@ -12,44 +12,75 @@ public class Employee {
     private int ssn;
     private int salary;
 
+    // default constructor
+    public Employee() {
+        firstName = "Jane";
+        lastName = "Doe";
+        ssn = 123456789;
+        salary = 100000;
+    }
+
+    // constructor with arguments
+    public Employee(String uFirstName, String uLastName, int uSsn, int uSalary) {
+        firstName = uFirstName;
+        lastName = uLastName;
+        ssn = uSsn;
+        salary = uSalary;
+    }
+
     /**
      * initialize mutator for first, last, ssn, & salary
      */
 
-    public void setFirstName(String userFirstName) { // mutator
-       firstName = userFirstName;  // FIXME help
+    // sets user's first name
+    public void setFirstName(String userFirstName) {
+       firstName = userFirstName;
     }
 
-    // public void setLastName(String userLastName) {
-    //    lastName = userLastName; // FIXME help
-    //}
-
-    // public void setSsn(int userSsn) {
-       // ssn = userSsn;
-    // }
-
-    // public void setSalary(int userSalary) {
-      //  salary = userSalary;
-   // }
-
-    // make sure that these make sense
-
+    // get first name
     public String getFirstName() {
         return firstName;
     }
 
-    // public String getLastName() {
-       // return lastName;
-    // }
+    // sets user's last name
+    public void setLastName(String userLastName) {
+        lastName = userLastName;
+    }
 
-    // public int getSsn() {
-       // return ssn;
-    //}
+    // gets user's last name
+    public String getLastName() {
+        return lastName;
+    }
 
-    // public int getSalary() {
-       // return salary;
-    // }
+    // sets user's ssn
+    public void setSsn(int userSsn) {
+        ssn = userSsn;
+    }
 
-    public static void main(String[] args) {
+    // gets user's ssn
+    public int getSsn() {
+        return ssn;
+    }
+
+    // sets user's salary
+    public void setSalary(int userSalary) {
+        salary = userSalary;
+    }
+
+    // gets user's salary
+    public int getSalary() {
+        return salary;
+    }
+
+    // toString output for employee
+    public String toString() {
+        String info = "";
+
+        info += "First name: " + firstName + "\n";
+        info += "Last name: " + lastName + "\n";
+        info += "Social security number: " + ssn + "\n";
+        info += "Salary: $" + salary;
+
+        return info;
     }
 }
