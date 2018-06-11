@@ -12,6 +12,26 @@ public class ClassEmployee {
     private int ssn;
     private int salary;
 
+    /**
+     * initialize mutator for first, last, ssn, & salary
+     */
+
+    public void setFirstName(String firstName) { // mutator
+       // name = firstName; FIXME help
+    }
+
+    public void setLastName(String lastName) {
+        // name = lastName; FIXME help
+    }
+
+    public void setSsn(int userSsn) {
+        ssn = userSsn;
+    }
+
+    public void setSalary(int userSalary) {
+        salary = userSalary;
+    }
+
     public String getFirstName() {
         return firstName;
     }
