@@ -7,20 +7,33 @@
 
 /**
  * one object of this class initiates JFrame and
- * displays it for the user
+ * displays it for the user.
+ * It also initiates a JTextField, JButton, and a JLabel
+ * adding them to JFrame
  */
 
 import javax.swing.JFrame;
+import javax.swing.JTextField;
+import javax.swing.JButton;
+import javax.swing.JLabel;
+
 import java.awt.FlowLayout;
 
 public class GUIApp {
     private JFrame myWindow;
+    private JTextField userInput;
+    private JButton hello;
+    private JLabel output;
 
     /**
      * constructor sets up the JFrame
      */
     public GUIApp() {
         setUpWindow();
+        setUpEntry();
+        setUpHelloButton();
+        setUpOutput();
+        myWindow.validate();
     }
 
     /**
