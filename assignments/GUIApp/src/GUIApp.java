@@ -48,6 +48,14 @@ public class GUIApp {
     }
 
     /**
+     * instantiates a new JFrame and sets it up empty
+     */
+    public void setUpEntry() {
+        userInput = new JTextField("Type your name here: ");
+        myWindow.add(userInput);
+    }
+
+    /**
      * instantiates a 'hello' button & adds it to the JFrame
      */
     public void setUpHelloButton() {
