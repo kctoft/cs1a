@@ -1,4 +1,11 @@
 /**
+ * name: GUI App
+ * created: 06/17/2018
+ * author: Kitana Toft
+ * desc: GUI application to interact with user; asks for name and program executes 'hello' or 'goodbye'.
+ */
+
+/**
  * One object of this class instantiates a JFrame, and a place for the user to
  * type her name, and a button. If the user types her name and clicks the "Hi"
  * button, a personalized greeting will appear on the JFrame.
@@ -12,6 +19,7 @@ public class GUIApp implements ActionListener {
     private JFrame myWindow;
     private JTextField userInput;
     private JButton hello;
+    private JButton bye;
     private JLabel output;
 
     /**
@@ -21,6 +29,7 @@ public class GUIApp implements ActionListener {
         setUpWindow();
         setUpEntry();
         setUpHelloButton();
+        setUpByeButton();
         setUpOutput();
         myWindow.validate();
     }
@@ -52,6 +61,14 @@ public class GUIApp implements ActionListener {
         hello = new JButton("Hi");
         myWindow.add(hello);
         hello.addActionListener(this);
+    }
+
+    /**
+     * Instantiates the bye button, adds it to to the JFrame,
+     * and makes this class listen and react to a user event on that button.
+     */
+    public void setUpByeButton() {
+        bye = new JButton("Bye");
     }
 
     /**
