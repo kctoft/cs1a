@@ -8,7 +8,7 @@
 
 public class MainGUI {
     public static void main(String[] args) {
-        GUIApp myApp;
-        myApp = new GUIApp();
+        GUIApplication myApp;
+        myApp = new GUIApplication();
     }
 }
