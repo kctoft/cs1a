@@ -46,4 +46,21 @@ public class GUIApp {
         myWindow.setSize(300, 510);
         myWindow.setVisible(true);
     }
+
+    /**
+     * instantiates a 'hello' button & adds it to the JFrame
+     */
+    public void setUpHelloButton() {
+        hello = new JButton("Hi");
+        myWindow.add(hello);
+    }
+
+    /**
+     * instantiates a JTextField for displaying the output, adds it to JFrame
+     * but leaves it empty
+     */
+    public void setUpOutput() {
+        output = new JLabel();
+        myWindow.add(output);
+    }
 }
