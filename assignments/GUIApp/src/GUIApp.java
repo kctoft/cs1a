@@ -35,7 +35,7 @@ public class GUIApp implements ActionListener {
     }
 
     /**
-     *  Instantiates the new JFrame and sets it up empty
+     *  Instantiates the new JFrame and sets it up empty.
      */
     public void setUpWindow() {
         myWindow = new JFrame();
@@ -69,6 +69,8 @@ public class GUIApp implements ActionListener {
      */
     public void setUpByeButton() {
         bye = new JButton("Bye");
+        myWindow.add(bye);
+        bye.addActionListener(this);
     }
 
     /**
@@ -89,6 +91,9 @@ public class GUIApp implements ActionListener {
         if (event.getActionCommand() == "Hi") {
             String usersName = userInput.getText();
             output.setText("Well hello there " + usersName + "!");
+        } if (event.getActionCommand() == "Goodbye") {
+            String usersName = userInput.getText();
+            output.setText("Goodbye " + usersName + "!");
         }
     }
 }
