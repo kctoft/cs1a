@@ -9,7 +9,10 @@
  * One object of this class instantiates a JFrame, and a place for the user to
  * type her name, and a button. If the user types her name and clicks the "Hi"
  * button, a personalized greeting will appear on the JFrame.
+ * If she clicks on "Bye" button, another message will appear.
+ * Can click on the red button to exit the program.
  */
+
 import javax.swing.*;
 import java.awt.FlowLayout;
 import java.awt.event.ActionListener;
@@ -23,7 +26,7 @@ public class GUIApp implements ActionListener {
     private JLabel output;
 
     /**
-     *  constructor sets up the JFrame and put all the components on it.
+     *  Constructor sets up the JFrame and put all the components on it.
      */
     public GUIApp() {
         setUpWindow();
@@ -91,7 +94,7 @@ public class GUIApp implements ActionListener {
         if (event.getActionCommand() == "Hi") {
             String usersName = userInput.getText();
             output.setText("Well hello there " + usersName + "!");
-        } if (event.getActionCommand() == "Goodbye") {
+        } else if (event.getActionCommand() == "Bye") {
             String usersName = userInput.getText();
             output.setText("Goodbye " + usersName + "!");
         }
