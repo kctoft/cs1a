@@ -1,45 +1,40 @@
 /**
- * Write a for loop that sums up all the numbers in an array and prints the total.
- * I have started the program by allocating the array and filling it with random numbers,
- * so you only have to write the code that sums up all the numbers in the array and prints the total.
- */
-import java.util.Random;
+ Write the definition for a method called "digitName()"
+ that returns a String containing the name of the digit sent in as parameter.
+ You can assume that your method will always receive an integer that is between 0 and 9, inclusive.
+ ("Inclusive" means including 0 and 9.) This method performs no user input and prints no output.
 
+ */
 
 public class FinalWork {
-    public static void main(String[] args) {
-        Random random;
-        random = new Random();
-        double[ ] arrayOfDouble;
-        final int NUMBER_OF_ELEMENTS = 7;
-        arrayOfDouble = new double[NUMBER_OF_ELEMENTS];
-        for (int i=0; i < arrayOfDouble.length; i++ ) {
-            arrayOfDouble [i] = random.nextInt();
-            System.out.println(arrayOfDouble[i]);
+    public static String digitName(int digit) {
+        switch(digit) {
+            case 0:
+                return "zero";
+            case 1:
+                return "one";
+            case 2:
+                return "two";
+            case 3:
+                return "three";
+            case 4:
+                return "four";
+            case 5:
+                return "five";
+            case 6:
+                return "six";
+            case 7:
+                return "seven";
+            case 8:
+                return "eight";
+            case 9:
+                return "nine";
         }
-        // declare value for 'sum'
-        double sum = 0;
+        return "not in range";
+    }
 
-        // for loop that takes random numbers and gets total sum
-        for (int i = 0; i < arrayOfDouble.length; i++ ) {
-            sum = arrayOfDouble[i] + sum;
-        }
-        System.out.println("The total sum is: " + sum);
+    public static void main(String[] args) {
+        System.out.println(digitName(8));
     }
 }
 
-/**
- Output:
-
- -3.5174291E8
- 7.28986582E8
- 1.700441233E9
- 8.58731078E8
- 9.38778812E8
- 2.05500053E8
- 1.771880464E9
- The total sum is: 5.852575312E9
-
- Process finished with exit code 0
-
- */
