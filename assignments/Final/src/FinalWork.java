@@ -16,7 +16,7 @@ public class FinalWork {
         pointList.add(new java.awt.Point(4,10));
         pointList.add(new java.awt.Point(7,1));
 
-        pointList.stream().forEach((p)-> System.out.print("(" + p.x +"," + p.y + ")"));
+        pointList.stream().forEach((p)-> System.out.print("(" + p.x +"," + p.y + ") "));
     }
 }
 
