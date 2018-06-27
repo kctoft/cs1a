@@ -1,29 +1,22 @@
 /**
- Assume that you are given a price in a String variable,
- and you need to take a discount off of that price in order to calculate the total.
- Recall that you cannot perform numeric calculations on String values.
- You will need to convert the String value into a double value in order to perform arithmetic on it.
- Luckily, there is a method in the Java API that converts a String value into a double value.
- This method is called Double.parseDouble(), and it is defined inside class Double.
- You do not have to import anything to call this method since class Double is inside the java.lang package.
-
- In the following program, add the code that calls the method Double.parseDouble()
- to convert the String priceInString into the double priceInDouble.
+ Define an ArrayList of Point objects.
+ Create three new Point objects with the following (x, y) values:
+ (0,6), (4,10), (7,1).
+ Add these three new Point objects to the ArrayList.
+ After all three Point objects are in the ArrayList,
+ print the ArrayList to show that the Points are in the list.
  */
+import java.util.ArrayList;
+import java.awt.Point;
 
 public class FinalWork {
     public static void main(String[] args) {
-        final double DISCOUNT = .15;
-        String priceInString;
-        priceInString = "9.99";
-        double priceInDouble;
+        ArrayList<Point> pointList = new ArrayList<Point>();
+        pointList.add(new java.awt.Point(0,6));
+        pointList.add(new java.awt.Point(4,10));
+        pointList.add(new java.awt.Point(7,1));
 
-        // this is where your code will go
-        priceInDouble = Double.parseDouble(priceInString);
-
-        double total;
-        total = priceInDouble - (priceInDouble * DISCOUNT);
-        System.out.println("The total including discount is: " + total);
+        pointList.stream().forEach((p)-> System.out.print("(" + p.x +"," + p.y + ")"));
     }
 }
 
