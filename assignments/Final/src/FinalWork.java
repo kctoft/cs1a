@@ -6,6 +6,8 @@
 
  */
 
+import java.util.Scanner;
+
 public class FinalWork {
     public static String digitName(int digit) {
         switch(digit) {
@@ -33,8 +35,22 @@ public class FinalWork {
         return "not in range";
     }
 
+    /**
+     Write a program that calls the digitName()
+     method that you defined in the previous question.
+     Your program will ask the user to type a single digit,
+     read the user's response into an int variable, and then print the name of the user's digit.
+     You can assume that the user will follow instructions.
+     */
+
     public static void main(String[] args) {
-        System.out.println(digitName(8));
+        Scanner s = new Scanner(System.in);
+        int digit;
+        digit = s.nextInt();
+
+        // prompts user for single digit
+        System.out.println("Enter a single digit: ");
+        System.out.println(digitName(digit));
     }
 }
 
