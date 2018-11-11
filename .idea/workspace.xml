@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="351fcc77-36e6-4607-abcd-9440e1cfaa1f" name="Default" comment="question 8">
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/GUIApp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/GUIApp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/GUIApp/src/GUIApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/GUIApp/src/GUIApp.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2076789480">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="java" value="1095" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1095" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="2" />
+          <entry key="java" value="27" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../cs1b/assignments/SoftDeletionTree/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/untitled/README.md" />
+        <option value="$PROJECT_DIR$/untitled/src/MidtermWork.java" />
+        <option value="$PROJECT_DIR$/assignments/MethodsForComparingThreeNumbers/README.md" />
+        <option value="$PROJECT_DIR$/assignments/MethodsForComparingThreeNumbers/src/SmallestValue.java" />
+        <option value="$PROJECT_DIR$/assignments/ArrayWithRandomValues/src/ArrayWithRandomValues.java" />
+        <option value="$PROJECT_DIR$/assignments/ArrayListOfRectangleObjects/src/README.md" />
+        <option value="$PROJECT_DIR$/assignments/ArrayListOfRectangleObjects/src/ArrayListOfRectangleObects.java" />
+        <option value="$PROJECT_DIR$/assignments/ArrayListOfRectangleObjects/src/ArrayListOfRectangleOjbects.java" />
+        <option value="$PROJECT_DIR$/assignments/MethodsForComparingThreeNumbers/src/MethodsForComparingThreeNumbers.java" />
+        <option value="$PROJECT_DIR$/assignments/ArrayListOfRectangleObjects/src/ArrayListOfRectangleObjects.java" />
+        <option value="$PROJECT_DIR$/assignments/ArrayListOfRectangleObjects/src/Rectangle.java" />
+        <option value="$PROJECT_DIR$/assignments/ArrayListOfRectangleObjects/src/TestRectangle.java" />
+        <option value="$PROJECT_DIR$/assignments/ClassEmployee/src/ClassEmployee.java" />
+        <option value="$PROJECT_DIR$/assignments/GUIApp/src/MainGUI.java" />
+        <option value="$PROJECT_DIR$/assignments/GUIApp/src/Main.java" />
+        <option value="$PROJECT_DIR$/assignments/GUIApp/src/GUIApp.java" />
+        <option value="$PROJECT_DIR$/assignments/ClassEmployee/src/Employee.java" />
+        <option value="$PROJECT_DIR$/assignments/ClassEmployee/src/TestEmpArray.java" />
+        <option value="$PROJECT_DIR$/assignments/ClassEmployeeExtraCredit/src/EmployeeArray.java" />
+        <option value="$PROJECT_DIR$/assignments/ClassEmployee/src/TestEmployee.java" />
+        <option value="$PROJECT_DIR$/assignments/FinalReview/src/Review.java" />
+        <option value="$PROJECT_DIR$/assignments/FinalReview/src/README.md" />
+        <option value="$PROJECT_DIR$/assignments/Final/src/FinalWork.java" />
+        <option value="$PROJECT_DIR$/assignments/Final/src/DateTest.java" />
+        <option value="$PROJECT_DIR$/assignments/Final/src/Date.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/SeatingChart/src/Student.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/SeatingChart/src/Main.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/SeatingChart/src/SeatingChart.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assigments/twoDimArray/src/Main.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/README.md" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/src/contractor.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/src/employee.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/src/Employee.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/src/FTE.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/src/MainIE.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/src/Contractor.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Villian.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/test.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/VillainTest.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Villain.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Phone.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Foothill.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Base.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Sub.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Test.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Question24.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/BitwiseOrAnd.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Question29.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/SolarSystem.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/dubArray.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/SoftDeletionTree/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1173" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cs1a" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs1b" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs1a" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs1b" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541976072858" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../cs1b/assignments" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.dubArray">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddingSalesTax" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="AddingSalesTax" />
+      <module name="AddingSalesTax" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnArrayOfTemps" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="AnArrayOfTemps" />
+      <module name="AnArrayOfTemps" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListOfRectangleObjects" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TestRectangle" />
+      <module name="ArrayListOfRectangleObjects" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayWithRandomValues" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayWithRandomValues" />
+      <module name="ArrayWithRandomValues" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoInsurance" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="AutoInsurance" />
+      <module name="AutoInsurance" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BitwiseOrAnd" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BitwiseOrAnd" />
+      <module name="midtermCS1B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BodyMassIndex" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BodyMassIndex" />
+      <module name="BodyMassIndex" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassEmployee" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TestEmployee" />
+      <module name="ClassEmployee" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalWork" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Date" />
+      <module name="Final" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUIApp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GUIApp" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritingEmployees" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MainIE" />
+      <module name="InheritingEmployees" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodsForComparingThreeNumbers" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MethodsForComparingThreeNumbers" />
+      <module name="MethodsForComparingThreeNumbers" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question24" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Question24" />
+      <module name="midtermCS1B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SavingYourMoney" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/openjdk-11.0.1.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SavingYourMoney" />
+      <module name="SavingYourMoney" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeatingChart" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SeatingChart" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sub" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Sub" />
+      <module name="midtermCS1B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="midtermCS1B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Villain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Villain" />
+      <module name="midtermCS1B" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VillainTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="VillainTest" />
+      <module name="midtermCS1B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dubArray" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="dubArray" />
+      <module name="midtermCS1B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twoDimArray" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="twoDimArray" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../cs1b/assigments/twoDimArray" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="ArrayWithRandomValues" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ArrayWithRandomValues" />
+      <item itemvalue="Application.BodyMassIndex" />
+      <item itemvalue="Application.AutoInsurance" />
+      <item itemvalue="Application.SavingYourMoney" />
+      <item itemvalue="Application.AnArrayOfTemps" />
+      <item itemvalue="Application.MethodsForComparingThreeNumbers" />
+      <item itemvalue="Application.GUIApp" />
+      <item itemvalue="Application.AddingSalesTax" />
+      <item itemvalue="Application.ArrayListOfRectangleObjects" />
+      <item itemvalue="Application.ClassEmployee" />
+      <item itemvalue="Application.FinalWork" />
+      <item itemvalue="Application.SeatingChart" />
+      <item itemvalue="Application.twoDimArray" />
+      <item itemvalue="Application.InheritingEmployees" />
+      <item itemvalue="Application.Question24" />
+      <item itemvalue="Application.BitwiseOrAnd" />
+      <item itemvalue="Application.VillainTest" />
+      <item itemvalue="Application.Sub" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Villain" />
+      <item itemvalue="Application.dubArray" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="351fcc77-36e6-4607-abcd-9440e1cfaa1f" name="Default" comment="" />
+      <created>1526845346973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526845346973</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1526848124852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526848124852</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Completed: array with random values">
+      <created>1526853486703</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526853486703</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added comment of process output">
+      <created>1526854139681</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526854139681</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <created>1526859981513</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1526859981513</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial Commit">
+      <created>1526861934244</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1526861934244</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial Commit">
+      <created>1526863937209</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1526863937210</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial Commit">
+      <created>1526864536717</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1526864536717</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial Commit">
+      <created>1526865434712</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1526865434712</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added 5 methods that compare 3 numbers">
+      <created>1527538589335</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1527538589335</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added array with random values class">
+      <created>1527538775669</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1527538775669</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fixed white space">
+      <created>1527539108503</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1527539108503</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added scaffolding for ArrayListOfRectangleObjects">
+      <created>1527540847785</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1527540847785</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added comments to Methods For Comparing Three Values">
+      <created>1527650711909</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1527650711909</updated>
+    </task>
+    <task id="LOCAL-00014" summary="changed comment format, deleted variable -- made them static">
+      <created>1527655122729</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1527655122729</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added scaffolding for ArrayListOfRectangleObjects">
+      <created>1528142684846</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1528142684846</updated>
+    </task>
+    <task id="LOCAL-00016" summary="created class Employee &amp; declared vars">
+      <created>1528691902198</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1528691902198</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added in methods for first &amp; last names, ssn, &amp; salary">
+      <created>1528692827711</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1528692827711</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add mutators">
+      <created>1528732810626</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1528732810626</updated>
+    </task>
+    <task id="LOCAL-00019" summary="changed classEmployee to Employee">
+      <created>1528737607614</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1528737607614</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added in new employees">
+      <created>1528748598313</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1528748598313</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add giveRaise">
+      <created>1528749342337</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1528749342337</updated>
+    </task>
+    <task id="LOCAL-00022" summary="get/set print">
+      <created>1528749623583</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1528749623583</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add output">
+      <created>1528749866507</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1528749866507</updated>
+    </task>
+    <task id="LOCAL-00024" summary="GUI application started; empty app &amp; testing file">
+      <created>1529094376499</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1529094376499</updated>
+    </task>
+    <task id="LOCAL-00025" summary="adding in buttons, labels, &amp; text to GUI app">
+      <created>1529094932338</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1529094932338</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add a text entry field to &amp; button to the window">
+      <created>1529255514905</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1529255514905</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added in entry field">
+      <created>1529255672804</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1529255672804</updated>
+    </task>
+    <task id="LOCAL-00028" summary="uploaded files from Banner; slight mods from prof">
+      <created>1529264592492</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1529264592492</updated>
+    </task>
+    <task id="LOCAL-00029" summary="added in private byeButton">
+      <created>1529266129358</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1529266129358</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Stylistic edits, still struggling to get reaction from `bye` button">
+      <created>1529286841651</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1529286841651</updated>
+    </task>
+    <task id="LOCAL-00031" summary="changed `goodbye` to `bye` allowing button to work.">
+      <created>1529288542622</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1529288542622</updated>
+    </task>
+    <task id="LOCAL-00032" summary="asks for user input for Class Employee">
+      <created>1529904175663</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1529904175664</updated>
+    </task>
+    <task id="LOCAL-00033" summary="adding in comments to T.E. for clarification">
+      <created>1529906798318</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1529906798318</updated>
+    </task>
+    <task id="LOCAL-00034" summary="created a final review">
+      <created>1530060806019</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1530060806020</updated>
+    </task>
+    <task id="LOCAL-00035" summary="question 1">
+      <created>1530062746203</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1530062746203</updated>
+    </task>
+    <task id="LOCAL-00036" summary="question 2">
+      <created>1530063260669</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1530063260669</updated>
+    </task>
+    <task id="LOCAL-00037" summary="question 3">
+      <created>1530065383037</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1530065383037</updated>
+    </task>
+    <task id="LOCAL-00038" summary="question 4">
+      <created>1530067619286</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1530067619286</updated>
+    </task>
+    <task id="LOCAL-00039" summary="question 5">
+      <created>1530068402013</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1530068402013</updated>
+    </task>
+    <task id="LOCAL-00040" summary="question 7">
+      <created>1530072002557</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1530072002558</updated>
+    </task>
+    <task id="LOCAL-00041" summary="question 8">
+      <created>1530072411860</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1530072411860</updated>
+    </task>
+    <task id="LOCAL-00042" summary="question 6">
+      <created>1530073044671</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1530073044671</updated>
+    </task>
+    <task id="LOCAL-00043" summary="question 6">
+      <created>1530073131662</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1530073131662</updated>
+    </task>
+    <task id="LOCAL-00044" summary="question 7">
+      <created>1530075608828</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1530075608828</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1173" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28104925" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946466" weight="0.32902032" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49571735" weight="0.34365925" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3283721" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3283721" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.4962527" weight="0.32720232" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50428265" side_tool="true" visible="true" weight="0.34365925" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="GfmBrowser" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24089935" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293023" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3283721" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3283721" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3283721" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3283721" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="GfmBrowser" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add mutators" />
+    <MESSAGE value="changed classEmployee to Employee" />
+    <MESSAGE value="added in new employees" />
+    <MESSAGE value="add giveRaise" />
+    <MESSAGE value="get/set print" />
+    <MESSAGE value="add output" />
+    <MESSAGE value="GUI application started; empty app &amp; testing file" />
+    <MESSAGE value="adding in buttons, labels, &amp; text to GUI app" />
+    <MESSAGE value="add a text entry field to &amp; button to the window" />
+    <MESSAGE value="added in entry field" />
+    <MESSAGE value="uploaded files from Banner; slight mods from prof" />
+    <MESSAGE value="added in private byeButton" />
+    <MESSAGE value="Stylistic edits, still struggling to get reaction from `bye` button" />
+    <MESSAGE value="changed `goodbye` to `bye` allowing button to work." />
+    <MESSAGE value="asks for user input for Class Employee" />
+    <MESSAGE value="adding in comments to T.E. for clarification" />
+    <MESSAGE value="created a final review" />
+    <MESSAGE value="question 1" />
+    <MESSAGE value="question 2" />
+    <MESSAGE value="question 3" />
+    <MESSAGE value="question 4" />
+    <MESSAGE value="question 5" />
+    <MESSAGE value="question 8" />
+    <MESSAGE value="question 6" />
+    <MESSAGE value="question 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="question 7" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="cs1a" type="b2602c69:ProjectViewProjectNode" />
+        <item name="cs1a" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assignments/AddingSalesTax/src/AddingSalesTax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/AddingSalesTax/AddingSalesTax.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/MethodsForComparingThreeNumbers/src/MethodsForComparingThreeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1230">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/ArrayListOfRectangleObjects/src/ArrayListOfRectangleObjects.java" />
+    <entry file="file://$PROJECT_DIR$/assignments/ArrayWithRandomValues/src/ArrayWithRandomValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/ArrayListOfRectangleObjects/src/TestRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/GUIApp/src/GUIApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/GUIApp1.java" />
+    <entry file="file://$PROJECT_DIR$/assignments/Main10.java" />
+    <entry file="file://$PROJECT_DIR$/assignments/GUIApp/src/MainGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/GUIApp/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="22" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/ClassEmployee/src/TestEmpArray.java" />
+    <entry file="file://$PROJECT_DIR$/assignments/ClassEmployeeExtraCredit/src/EmployeeArray.java" />
+    <entry file="file://$PROJECT_DIR$/assignments/FinalReview/src/README" />
+    <entry file="file://$PROJECT_DIR$/assignments/GUIApp/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/FinalReview/src/Review.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/FinalReview/src/README.md">
+      <provider editor-type-id="text-editor" />
+      <provider editor-type-id="Gfm" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="750">
+            <caret line="187" lean-forward="true" selection-start-line="187" selection-end-line="187" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/Final/src/DigitName.java" />
+    <entry file="file://$PROJECT_DIR$/assignments/Final/src/DateTest.java" />
+    <entry file="file://$PROJECT_DIR$/assignments/Final/src/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/GUIApp/src/GUIApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="101" column="1" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/Final/assignments/Final.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/ClassEmployee/ClassEmployee.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/AutoInsurance/src/AutoInsurance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/AnArrayOfTemps/src/AnArrayOfTemps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/ArrayListOfRectangleObjects/src/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/BodyMassIndex/src/BodyMassIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="910">
+            <caret line="63" column="50" selection-start-line="63" selection-start-column="50" selection-end-line="63" selection-end-column="50" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/ClassEmployee/src/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/SavingYourMoney/src/SavingYourMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Villain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/FinalReview/assignments/FinalReview.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/ClassEmployee/src/TestEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/src/MainIE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="38" column="54" lean-forward="true" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Sub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/VillainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/SeatingChart/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/src/Contractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/src/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/src/FTE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="39" column="71" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/SeatingChart/src/SeatingChart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="85" column="33" selection-start-line="85" selection-start-column="33" selection-end-line="85" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/SeatingChart/src/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-365">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Question24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/BitwiseOrAnd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/Question29.java" />
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/dubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/SoftDeletionTree.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/twoDimArray/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/SoftDeletionTree/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GeneralTree</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -9,10 +9,19 @@
       <module fileurl="file://$PROJECT_DIR$/assignments/AutoInsurance/AutoInsurance.iml" filepath="$PROJECT_DIR$/assignments/AutoInsurance/AutoInsurance.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/BodyMassIndex/BodyMassIndex.iml" filepath="$PROJECT_DIR$/assignments/BodyMassIndex/BodyMassIndex.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/ClassEmployee/ClassEmployee.iml" filepath="$PROJECT_DIR$/assignments/ClassEmployee/ClassEmployee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/Final/assignments/Final.iml" filepath="$PROJECT_DIR$/assignments/Final/assignments/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/FinalReview/assignments/FinalReview.iml" filepath="$PROJECT_DIR$/assignments/FinalReview/assignments/FinalReview.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/GUIApp/GUIApp.iml" filepath="$PROJECT_DIR$/assignments/GUIApp/GUIApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/InheritingEmployees.iml" filepath="$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/InheritingEmployees.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/MethodsForComparingThreeNumbers/MethodsForComparingThreeNumbers.iml" filepath="$PROJECT_DIR$/assignments/MethodsForComparingThreeNumbers/MethodsForComparingThreeNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/SavingYourMoney/SavingYourMoney.iml" filepath="$PROJECT_DIR$/assignments/SavingYourMoney/SavingYourMoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cs1b/SeatingChart.iml" filepath="$PROJECT_DIR$/../cs1b/SeatingChart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cs1b/assignments/SoftDeletionTree/SoftDeletionTree.iml" filepath="$PROJECT_DIR$/../cs1b/assignments/SoftDeletionTree/SoftDeletionTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/cs1a.iml" filepath="$PROJECT_DIR$/cs1a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cs1b/cs1b.iml" filepath="$PROJECT_DIR$/../cs1b/cs1b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cs1b/assignments/example.iml" filepath="$PROJECT_DIR$/../cs1b/assignments/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/midtermCS1B.iml" filepath="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/midtermCS1B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cs1b/twoDimArray.iml" filepath="$PROJECT_DIR$/../cs1b/twoDimArray.iml" />
     </modules>
   </component>
 </project>
