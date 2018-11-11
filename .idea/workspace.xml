@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="351fcc77-36e6-4607-abcd-9440e1cfaa1f" name="Default" comment="question 8">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignments/GUIApp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/GUIApp/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignments/GUIApp/src/GUIApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/GUIApp/src/GUIApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +15,7 @@
     <session id="-2076789480">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
@@ -42,26 +37,35 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="27" />
+          <entry key="IDEA_MODULE" value="6" />
+          <entry key="JAVA" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="2" />
-          <entry key="java" value="27" />
+          <entry key="iml" value="6" />
+          <entry key="java" value="28" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../cs1b/assignments/SoftDeletionTree/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../cs1b/assignments/SeatingChart/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1460">
+              <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -82,8 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/untitled/README.md" />
-        <option value="$PROJECT_DIR$/untitled/src/MidtermWork.java" />
         <option value="$PROJECT_DIR$/assignments/MethodsForComparingThreeNumbers/README.md" />
         <option value="$PROJECT_DIR$/assignments/MethodsForComparingThreeNumbers/src/SmallestValue.java" />
         <option value="$PROJECT_DIR$/assignments/ArrayWithRandomValues/src/ArrayWithRandomValues.java" />
@@ -133,6 +135,8 @@
         <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/SolarSystem.java" />
         <option value="$PROJECT_DIR$/../cs1b/assignments/midtermCS1B/src/dubArray.java" />
         <option value="$PROJECT_DIR$/../cs1b/assignments/SoftDeletionTree/src/Main.java" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/SeatingChart/SeatingChart.iml" />
+        <option value="$PROJECT_DIR$/../cs1b/assignments/twoDimArray/twoDimArray.iml" />
       </list>
     </option>
   </component>
@@ -165,6 +169,31 @@
               <item name="cs1b" type="462c0819:PsiDirectoryNode" />
               <item name="assignments" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cs1a" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs1b" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="SeatingChart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs1a" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs1b" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="SeatingChart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs1a" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs1b" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="SoftDeletionTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs1a" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs1b" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="twoDimArray" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -173,7 +202,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541976072858" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541976941810" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -199,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.dubArray">
+  <component name="RunManager" selected="Application.FinalWork">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -246,13 +275,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BitwiseOrAnd" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="BitwiseOrAnd" />
-      <module name="midtermCS1B" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BodyMassIndex" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BodyMassIndex" />
       <module name="BodyMassIndex" />
@@ -285,25 +307,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritingEmployees" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="MainIE" />
-      <module name="InheritingEmployees" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MethodsForComparingThreeNumbers" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="MethodsForComparingThreeNumbers" />
       <module name="MethodsForComparingThreeNumbers" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question24" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Question24" />
-      <module name="midtermCS1B" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -318,60 +325,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeatingChart" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="SeatingChart" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sub" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Sub" />
-      <module name="midtermCS1B" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="midtermCS1B" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Villain" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Villain" />
-      <module name="midtermCS1B" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VillainTest" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="VillainTest" />
-      <module name="midtermCS1B" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dubArray" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="dubArray" />
-      <module name="midtermCS1B" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="twoDimArray" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="twoDimArray" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../cs1b/assigments/twoDimArray" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -422,16 +377,6 @@
       <item itemvalue="Application.ArrayListOfRectangleObjects" />
       <item itemvalue="Application.ClassEmployee" />
       <item itemvalue="Application.FinalWork" />
-      <item itemvalue="Application.SeatingChart" />
-      <item itemvalue="Application.twoDimArray" />
-      <item itemvalue="Application.InheritingEmployees" />
-      <item itemvalue="Application.Question24" />
-      <item itemvalue="Application.BitwiseOrAnd" />
-      <item itemvalue="Application.VillainTest" />
-      <item itemvalue="Application.Sub" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Villain" />
-      <item itemvalue="Application.dubArray" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -769,7 +714,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946466" weight="0.32902032" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49571735" weight="0.34365925" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.495182" weight="0.34365925" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -777,7 +722,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3283721" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3283721" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.4962527" weight="0.32720232" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50428265" side_tool="true" visible="true" weight="0.34365925" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50481796" side_tool="true" visible="true" weight="0.34365925" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
@@ -859,24 +804,6 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assignments/AddingSalesTax/src/AddingSalesTax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/AddingSalesTax/AddingSalesTax.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/MethodsForComparingThreeNumbers/src/MethodsForComparingThreeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1230">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/ArrayListOfRectangleObjects/src/ArrayListOfRectangleObjects.java" />
     <entry file="file://$PROJECT_DIR$/assignments/ArrayWithRandomValues/src/ArrayWithRandomValues.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -1077,13 +1004,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/SeatingChart/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../cs1b/assignments/InheritingEmployees/src/Contractor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
@@ -1155,10 +1075,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/twoDimArray/twoDimArray.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/SeatingChart/SeatingChart.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/BodyMassIndex/BodyMassIndex.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/../cs1b/assignments/SoftDeletionTree/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/cs1b.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cs1b/assignments/SeatingChart/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1460">
+          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
         </state>
       </provider>
     </entry>
